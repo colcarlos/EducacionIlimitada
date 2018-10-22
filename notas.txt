@@ -1,0 +1,4 @@
+https://github.com/colcarlos/EducacionIlimitada.git
+
+ruta andres
+cd C:/Temp/appFullStack/EducacionIlimitada
